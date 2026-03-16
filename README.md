@@ -15,6 +15,7 @@ Mindbogglingly stupid as fuck people who really should go fucking with finance a
 
 - [chardet/chardet](https://github.com/chardet/chardet): You can tell it's bad when the *maintainer* works in a company called "Monarch Money".
 - [langchain-ai/langchain](https://github.com/langchain-ai/langchain): Definition of over-engineering.
+- [langflow-ai/langflow](https://github.com/langflow-ai/langflow): langchain but worse - you can tell by its star count.
 - [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT): OpenAI's conspiracy to sell more tokens.
 
 ## Papers
