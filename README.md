@@ -6,6 +6,7 @@ Mindbogglingly stupid as fuck people who really should go fucking with finance a
 
 - [anthropics/claudes-c-compiler](https://github.com/anthropics/claudes-c-compiler): For all the electricity went into vain
 - [openclaw/openclaw](https://github.com/openclaw/openclaw): Agent framework that finally adds security vunerabilities and privacy breaches
+- [runbrowser/runbrowser](https://github.com/runbrowser/runbrowser): Because AI agents weren't scary enough until they got access to your real browser with all your passwords and cookies
 
 ## Libraries
 
