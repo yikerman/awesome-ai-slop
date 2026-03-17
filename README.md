@@ -10,6 +10,7 @@ Mindbogglingly stupid as fuck people who really should go fucking with finance a
 - [pmatos/jsse](https://github.com/pmatos/jsse): Just read the description; it's the only thing human wrote.
 - [runbrowser/runbrowser](https://github.com/runbrowser/runbrowser): Lame brother of OpenClaw.
 - [stackblitz-labs/bolt.diy](https://github.com/stackblitz-labs/bolt.diy): One-click solution to tech-debts and vulnerabilities.
+- [wilsonzlin/fastrender](https://github.com/wilsonzlin/fastrender): A web browser from scratch (a non-functional wrapper for Servo).
 
 ## Libraries
 
