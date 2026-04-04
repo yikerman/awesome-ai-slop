@@ -25,4 +25,4 @@ Mindbogglingly stupid as fuck people who really should go fucking with finance a
 
 ## Papers
 
-- [Gen-Verse/OpenClaw-RL](https://github.com/Gen-Verse/OpenClaw-RL): Make distillation great again.
+- [OpenClaw-RL: Train Any Agent Simply by Talking](https://doi.org/10.48550/arXiv.2603.10165): Make distillation great again.
