@@ -25,5 +25,5 @@ Mindbogglingly stupid as fuck people who really should go fucking with finance a
 
 ## Papers
 
-- [Meta-Harness: End-to-End Optimization of Model Harnesses](https://doi.org/10.48550/arXiv.2603.28052): Just say you vide-coded a Claude Code.
+- [Meta-Harness: End-to-End Optimization of Model Harnesses](https://doi.org/10.48550/arXiv.2603.28052): Just say you vide-coded a Claude Code on specific problems.
 - [OpenClaw-RL: Train Any Agent Simply by Talking](https://doi.org/10.48550/arXiv.2603.10165): Make distillation great again.
