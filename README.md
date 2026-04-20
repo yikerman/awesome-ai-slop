@@ -23,6 +23,11 @@ Mindbogglingly stupid as fuck people who really should go fucking with finance a
 - [langflow-ai/langflow](https://github.com/langflow-ai/langflow): langchain but worse - you can tell by its star count.
 - [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT): OpenAI's conspiracy to sell more tokens.
 
+## Users
+
+- [ruvnet](https://github.com/ruvnet): Rust, TypeScript AI Slop. Hundreds of "production-ready" Rust crates `agentic-* aimds-* code-mesh-* daa-* exo-* midstreamer-* nt-* qudag-* ruqu-* ruv-* ruvector-* rvf-* wifi-densepose-*` [full list](https://crates.io/users/ruvnet). Hundreds of npm packages `@agentic-robotics/* @agentics.org/* @claude-flow/* @cognitum/* @foxruv/* @neural-trader/* @qudag/* @ruv/* @ruvector/* @ruvnet/*` [full list](https://www.npmjs.com/~ruvnet)
+- [cool-japan](https://github.com/cool-japan): Rust AI Slop. Hundreds of "production-ready" "100% pass test" Rust crates `oxi* oxionnx-* oximedia-* oxifft oxiblas oxillama-* oxiwhisper oxiarc-* oxiz-* oxigdal-* oxilean-* oxiphoton oxibonsai-* scirs2-* tenflowers-* legalis-* voirs-*` [full list](https://crates.io/users/cool-japan). [Related to Blockchain coin](https://github.com/consenlabs/token-profile/pull/6644).
+
 ## Papers
 
 - [Meta-Harness: End-to-End Optimization of Model Harnesses](https://doi.org/10.48550/arXiv.2603.28052): Just say you vide-coded a Claude Code on specific problems.
