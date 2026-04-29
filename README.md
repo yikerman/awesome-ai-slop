@@ -27,3 +27,4 @@ Mindbogglingly stupid as fuck people who really should go fucking with finance a
 
 - [Meta-Harness: End-to-End Optimization of Model Harnesses](https://doi.org/10.48550/arXiv.2603.28052): Just say you vide-coded a Claude Code on specific problems.
 - [OpenClaw-RL: Train Any Agent Simply by Talking](https://doi.org/10.48550/arXiv.2603.10165): Make distillation great again.
+- [TradingAgents: Multi-Agents LLM Financial Trading Framework](https://doi.org/10.48550/arXiv.2412.20138): We can make money out of thin air if every one is using it!
