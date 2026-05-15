@@ -25,6 +25,7 @@ Mindbogglingly stupid as fuck people who really should go fucking with finance a
 
 ## Papers
 
+- [AI Wellbeing Measuring and Improving the Functional Pleasure and Pain of AIs](https://www.ai-wellbeing.org/): LMAO
 - [Cross-codal bridging information processing by L1 Chinese speakers: An ERP study](https://doi.org/10.1016/j.bandl.2026.105754): Read the Introduction section.
 - [Meta-Harness: End-to-End Optimization of Model Harnesses](https://doi.org/10.48550/arXiv.2603.28052): Just say you vide-coded a Claude Code on specific problems.
 - [OpenClaw-RL: Train Any Agent Simply by Talking](https://doi.org/10.48550/arXiv.2603.10165): Make distillation great again.
