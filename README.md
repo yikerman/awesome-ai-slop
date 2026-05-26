@@ -8,6 +8,7 @@ Mindbogglingly stupid as fuck people who really should go fucking with finance a
 - [instructkr/claw-code](https://github.com/instructkr/claw-code.git): AI translated software originiated from AI generated codebase.
 - [kaansenol5/VibeOS](https://github.com/kaansenol5/VibeOS): I can't even tell if this is sarcasm or not.
 - [openclaw/openclaw](https://github.com/openclaw/openclaw): Agent framework that finally adds security vulnerabilities and privacy breaches.
+- [oven-sh/bun](https://github.com/oven-sh/bun): [+1M LoC](https://github.com/oven-sh/bun/pull/30412) really simplifies things a lot!
 - [pmatos/jsse](https://github.com/pmatos/jsse): Just read the description; it's the only thing human wrote.
 - [rayzhudev/vibecraft](https://github.com/rayzhudev/vibecraft): "RTS-style workspace for managing AI coding agents" who came up with that???
 - [runbrowser/runbrowser](https://github.com/runbrowser/runbrowser): Lame brother of OpenClaw.
